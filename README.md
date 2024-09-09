@@ -30,4 +30,4 @@ Visualizing regression lines using Matplotlib
 Implementing multiple linear regression using Scikit-learn
 Feature selection using recursive feature elimination (RFE)
 ## Done by:
-## k.abhiram
+## k.Abhiram
